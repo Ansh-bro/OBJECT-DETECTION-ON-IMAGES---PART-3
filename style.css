@@ -1,0 +1,27 @@
+body
+{
+    background-size: cover;
+}
+
+.heading
+{
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+    padding: 10px;
+}
+
+canvas
+{
+   box-shadow: 10px 10px 10px blueviolet;
+   border-radius: 10px;
+}
+
+.button_click
+{
+    background-color: white;
+    margin: 30px;
+    font-size: 20px;
+    border-radius: 20px;
+    width: 30%;
+}
